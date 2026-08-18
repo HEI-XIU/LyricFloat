@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_CN</string>
+    <key>CFBundleDisplayName</key>
+    <string>桌面积词</string>
+    <key>CFBundleExecutable</key>
+    <string>LyricFloat</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.local.LyricFloat</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>LyricFloat</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>需要访问"音乐"App 以获取当前播放的曲目与积词。</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+# Build artifacts
+/build/
+*.dmg
+*.iso
+
+# Xcode / macOS
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+
+# Test binaries
+build_test_*
+/tools/build/
+/test/
+/testsrc/
+/testsrc_net/
+test_*.swift
