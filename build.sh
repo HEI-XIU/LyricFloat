@@ -17,7 +17,7 @@ rm -rf "$BUILD" "$DMG" 2>/dev/null || true
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
 
 echo "==> 编译 Swift 源码"
-swiftc -O -framework AppKit "${SWIFT_FLAGS[@]}" \
+swiftc -Onone -framework AppKit "${SWIFT_FLAGS[@]}" \
   Sources/main.swift Sources/AppDelegate.swift Sources/NowPlaying.swift \
   Sources/LyricsFetcher.swift Sources/LRC.swift Sources/QQMusic.swift \
   -o "$APP/Contents/MacOS/$APP_NAME"
