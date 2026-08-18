@@ -37,7 +37,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate, NSMenuDelegate {
         let item = NSStatusBar.system.statusItem(withLength: NSStatusItem.variableLength)
         if let button = item.button {
             button.title = "♪ 积词加载中…"
-            button.toolTip = "桌面积词"
+            button.toolTip = "LyricFloat"
         }
         let menu = NSMenu()
         menu.delegate = self

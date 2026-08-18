@@ -5,7 +5,7 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>zh_CN</string>
     <key>CFBundleDisplayName</key>
-    <string>桌面积词</string>
+    <string>LyricFloat</string>
     <key>CFBundleExecutable</key>
     <string>LyricFloat</string>
     <key>CFBundleIconFile</key>
@@ -27,7 +27,7 @@
     <key>LSUIElement</key>
     <true/>
     <key>NSAppleEventsUsageDescription</key>
-    <string>需要访问"音乐"App 以获取当前播放的曲目与积词。</string>
+    <string>Needs to control the Music app to read the currently playing track and its lyrics.</string>
     <key>NSHumanReadableCopyright</key>
     <string>Copyright © 2026</string>
 </dict>

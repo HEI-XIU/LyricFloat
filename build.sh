@@ -7,7 +7,7 @@ VERSION="1.0.0"
 BUILD="build"
 APP="$BUILD/$APP_NAME.app"
 DMG="LyricFloat-$VERSION.dmg"
-VOLNAME="桌面积词"
+VOLNAME="LyricFloat"
 
 SDK="${SDKROOT:-/Library/Developer/CommandLineTools/SDKs/MacOSX26.5.sdk}"
 SWIFT_FLAGS=(-swift-version 5 -sdk "$SDK" -Xcc -fmodules-cache-path=/tmp/swift-modcache)

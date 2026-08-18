@@ -1,4 +1,4 @@
-# 🎵 桌面积词 LyricFloat
+# 🎵 LyricFloat
 
 > macOS 菜单栏积词 App — 播放「音乐」App 时，把当前歌曲的积词实时显示在菜单栏上。
 
@@ -28,7 +28,7 @@ macOS 自带的「音乐」App 没有控制台积词（歌词）。LyricFloat �
 
 ## 🚀 安装
 
-1. 下载并双击 [`桌面积词-1.0.0.dmg`](https://github.com/HEI-XIU/LyricFloat/releases)，把 `LyricFloat.app` 拖入 `Applications` 文件夹（DMG 内含 Applications 快捷方式，直接拖拽即可）。
+1. 下载并双击 [`LyricFloat-1.0.0.dmg`](https://github.com/HEI-XIU/LyricFloat/releases)，把 `LyricFloat.app` 拖入 `Applications` 文件夹（DMG 内含 Applications 快捷方式，直接拖拽即可）。
 2. 打开「访达 → 应用程序」，按住 `control` 键点按 `LyricFloat.app` → 打开（首次可能被 Gatekeeper 拦截，选择「打开」）。
 3. 在「音乐」App 中播放歌曲，菜单栏即出现 ♪ 图标并显示积词。
 
